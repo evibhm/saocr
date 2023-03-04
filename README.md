@@ -4,7 +4,7 @@
 
 ## 配置腾讯云密钥
 
-修改目录ocrapi/config.example.py`` 修改完内容后，将文件名改为`config.py`
+修改目录`ocrapi/config.example.py` 修改完内容后，将文件名改为`config.py`
 
 ## 编译Docker镜像
 
